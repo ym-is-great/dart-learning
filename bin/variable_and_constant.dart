@@ -22,7 +22,7 @@ void main () {
   final baz = 1;
   print('baz: ${baz}'); // baz: 1
 
-  // 常量
+  // 编译时常量
   const qux = 1;
   print('qux: ${qux}'); // qux: 1
 
